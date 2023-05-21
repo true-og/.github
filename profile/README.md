@@ -24,6 +24,6 @@ We encourage forks to maintain the "OG" meta that TrueOG strives for, but the co
 |armhf :heavy_check_mark:|
 |alpine :heavy_check_mark:|
 
-The TrueOG Website was forked from aviel900 on [SpigotMC](https://www.spigotmc.org/resources/minecraft-one-page-template.59734/).
+Follow TrueOG on <a rel="me" href="https://mastodon.gamedev.place/@trueog">Mastodon</a>
 
 TrueOG is public domain software (excluding contributing projects where their terms apply). All contributors must sign the contributor license agreement [CLA.txt](https://github.com/NotAlexNoyle/true-og/blob/main/CLA.txt).
